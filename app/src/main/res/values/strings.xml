@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">AppTurismo</string>
+<string name="topBarName">App Turismo</string>
+<string name="topBarGal">Galeria</string>
+
+<string name="gifRecordVideo">https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk3ZXU1anIwaTg5aDF6NXFqZXdpaHVjaWR3d2xscWwxOWsycGV0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ecgWrXhtlmhmlxmvK/giphy.webp</string>
+<string name="gifTakePhoto">https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI1cGNrZmQwbXlnZHowdmZ0cWM4anNhbWtvbTQ5MzhyOGk5dmg3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CIyXvQgk7yHwN1p4Gq/giphy.webp</string>
+<string name="gifGallery">https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW14dDByaTU2b2dsNDFwM2V3bjFqNGM2NXhhanRid25sN3Y0YzJiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIm7RckrEHz1y5KyNo/giphy.webp</string>
+
+</resources>
